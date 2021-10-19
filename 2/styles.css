@@ -14,10 +14,11 @@ article {
 
 body {
     background-color: turquoise;
+    font-family: Verdana, sans-serif;
 }
 
 footer {
-    background-color: lightpink;
+    background-color: greenyellow;
     padding: 10px;
 }
 
@@ -27,6 +28,5 @@ a {
 }
 
 a:hover {
-    color: black;
     text-decoration: underline;
 }
