@@ -1,0 +1,32 @@
+section {
+/*    display: grid;
+    grid-template-columns: 1fr 1fr;*/
+    display: flex;
+    padding: 10px;
+    background-color: turquoise;
+}
+
+article {
+    padding: 0 10px;
+    margin: 4px;
+    background-color: greenyellow;
+}
+
+body {
+    background-color: turquoise;
+}
+
+footer {
+    background-color: lightpink;
+    padding: 10px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkgreen;
+    text-decoration: underline;
+}
