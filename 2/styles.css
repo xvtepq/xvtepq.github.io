@@ -26,7 +26,7 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    color: darkgreen;
+a:hover {
+    color: black;
     text-decoration: underline;
 }
